@@ -1,3 +1,5 @@
+package outro;
+
 
 public class NovoTeste {
     public static void main(String[] args) {
